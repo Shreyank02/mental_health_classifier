@@ -20,4 +20,3 @@ This project is an NLP-based Streamlit web app designed to detect signs of menta
 1. **Clone this repo**
    ```bash
    git clone https://github.com/IshitaSharma0/your-repo-name.git
-   cd your-repo-name
